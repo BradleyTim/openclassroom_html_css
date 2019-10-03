@@ -35,6 +35,10 @@ section ul {
   list-style: none;
 }
 
+section li {
+  padding: .15rem 0;
+}
+
 section a {
   text-decoration: none;
   color: #333;
